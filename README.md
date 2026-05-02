@@ -68,7 +68,7 @@ host/port you put in `backend/.env`).
 ## 1) Clone the repository
 
 ```bash
-git clone <your-repo-url> valuenable_assignment
+git clone https://github.com/Jitesh001/valuenable_assignment.git
 cd valuenable_assignment
 ```
 
